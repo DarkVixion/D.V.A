@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324908215878",
+    "project_id": "difabel-app",
+    "storage_bucket": "difabel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324908215878:android:66d1c315a8c8e4ad472447",
+        "android_client_info": {
+          "package_name": "com.example.difabelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324908215878-mfie23bqk6iujr0cbllc6d47mcaeqgjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW7ALUHHR1_FBM7EQ3yd_e9GoW3ZmH4tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324908215878-mfie23bqk6iujr0cbllc6d47mcaeqgjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
